@@ -1,0 +1,6 @@
+ABC,59.99,10,/productos/XYZ.jpg
+ABC,199.99,200,/productos/JWD.jpg
+HIJ,59.99,10,/productos/XFZ.jpg
+KLM,199.99,200,/productos/JGL.jpg
+NOP,59.99,10,/productos/XYG.jpg
+QRS,199.99,200,/productos/JGKL.jpg

@@ -1,0 +1,5 @@
+ABC,20,M,123,/clientes/ABC.jpg
+CDF,15,F,123,/clientes2/DEF.jpg
+AGC,12,M,789,/clientes3/ABC.jpg
+DJF,18,F,143,/clientes4/DEF.jpg
+ARB,12,M,154,/clientes5/ABC.jpg
